@@ -3,6 +3,6 @@
     "description": "Phisher Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins.json"
+      "https://github.com/AaryaDixit/Repos/blob/1526a57ab06f832fc42c352627878fab7491c7e1/plugins.json"
     ]
   }
