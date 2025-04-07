@@ -1,8 +1,8 @@
 {
-    "name": "Phisher Repo",
-    "description": "Phisher Repository",
+    "name": "Aarya repo",
+    "description": "Aarya Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins.json"
+      "https://github.com/AaryaDixit/Repos/blob/build/plugins.json"
     ]
   }
