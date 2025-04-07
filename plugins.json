@@ -1,0 +1,45 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MultiMoviesProvider/icon.png",
+        "jarFileSize": 149473,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AaryaDixit/Repos",
+        "fileSize": 31345,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 34,
+        "internalName": "MultiMoviesProvider",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.jar",
+        "description": "Indian Multi-language HD Provider",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.cs3",
+        "name": "MultiMoviesProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/UHDmoviesProvider/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AaryaDixit/Repos",
+        "fileSize": 41237,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 23,
+        "internalName": "UHDmoviesProvider",
+        "description": "Indian Multi-language 4K Provider",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UHDmoviesProvider.cs3",
+        "name": "UHDmoviesProvider"
+    }
+]
