@@ -17,9 +17,9 @@
         ],
         "version": 34,
         "internalName": "MultiMoviesProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.jar",
+        "jarUrl": "https://github.com/AaryaDixit/Repos/blob/build/MultiMoviesProvider.jar",
         "description": "Indian Multi-language HD Provider",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.cs3",
+        "url": "https://github.com/AaryaDixit/Repos/raw/refs/heads/build/MultiMoviesProvider.cs3",
         "name": "MultiMoviesProvider"
     },
     {
